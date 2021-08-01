@@ -24,18 +24,16 @@ I'm super OCD and like my rofi/dunst/polybar to spawn only on one of my monitors
 
 ![image](screenshots/reddit-screens/reddit-screen.png)
 
-![image](background-with-neofetch.png)
+![image](screenshots/window-screens/background-with-neofetch.png)
 
-![image](chromium ranger htop neoetch.png)
+![image](screenshots/window-screens/chromium ranger htop neoetch.png)
 
-![image](discord.png)
+![image](screenshots/window-screens/discord.png)
 
-![image](neovim zathura.png)
+![image](screenshots/window-screens/neovim zathura.png)
 
-![image](sublime.png)
+![image](screenshots/window-screens/sublime.png)
 
-![image](pomotroid.png)
+![image](screenshots/window-screens/pomotroid.png)
 
-![image](thunar.png)
-
-
+![image](screenshots/window-screens/thunar.png)
