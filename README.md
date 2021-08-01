@@ -3,6 +3,7 @@ Greed
 
 A color scheme made to fit my theme "Greed" inspired by Patryk Hardziej's "Greed."
 
+Background Source: https://hardziej.com/projects/greed/
 
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
