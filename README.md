@@ -21,6 +21,8 @@ If you're not comfortable changing this I wouldn't even bother. It's a bit of a 
 I recommend going through and changing the "monitor: DP-2" or any variation of this and using "xrandr" to change to your monitor(s).
 I'm super OCD and like my rofi/dunst/polybar to spawn only on one of my monitors. I'm not sure everything you should look at but rofi/polybar/i3 are for sure you should look in the configs.
 
+edit: I recently switched to alsa instead of pulse. I have fancy-shmancy audio interface. 
+
 ## Screenshots: 
 
 ![image](screenshots/reddit-screens/reddit-screen.png)
