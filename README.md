@@ -29,11 +29,11 @@ edit: I recently switched to alsa instead of pulse. I have fancy-shmancy audio i
 
 ![image](screenshots/window-screens/background-with-neofetch.png)
 
-![image](screenshots/window-screens/chromium ranger htop neoetch.png)
+![image](https://github.com/LetsHaveKiddos/dots-greed/blob/master/screenshots/window-screens/chromium%20ranger%20htop%20neoetch.png)
 
 ![image](screenshots/window-screens/discord.png)
 
-![image](screenshots/window-screens/neovim zathura.png)
+![image](https://github.com/LetsHaveKiddos/dots-greed/blob/master/screenshots/window-screens/neovim%20zathura.png)
 
 ![image](screenshots/window-screens/sublime.png)
 
